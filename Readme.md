@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **nishantrajx924@gmail.com** For Collaboration/Project or A
 - 👯 **I’m looking to collaborate on:** Open-source projects, hackathons, and scalable web/mobile applications
 - 🤔 **I’m looking for help with:** System architecture, performance optimization, and production-level best practices
 - 💬 **Ask me about:** React Native, JavaScript, Node.js, MongoDB, Firebase, and app development
-- 📫 **How to reach me:** yourname@email.com
+- 📫 **How to reach me:** nishantrajx924@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy turning complex problems into clean, efficient solutions
 
